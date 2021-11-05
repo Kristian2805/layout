@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: azure;
+    
+    padding: 15px 15px;
+    text-decoration: none;
+    max-width: 100%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+p{
+    color:grey;
+}
+
+.photo{
+    border-radius: 5%;
+    width: 300px;
+    float: left;
+}
+
+.container{
+    float: left;
+    width:25%;
+    text-align: center;
+    padding: 15px 15px;
+    }
+
+.column{
+    float: left;
+    width: 20%;
+    padding: 15px 15px;
+}
+a{
+    color: rgb(0, 162, 255);
+}
